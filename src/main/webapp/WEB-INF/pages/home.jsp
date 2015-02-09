@@ -13,6 +13,9 @@
     <li>
         <a href="<c:url value='/userform'/>"><fmt:message key="menu.user"/></a>
     </li>
+	<li>
+    	<a href="<c:url value="/persons"/>"><fmt:message key="menu.viewPeople"/></a>
+	</li>
     <li>
         <a href="<c:url value='/fileupload'/>"><fmt:message key="menu.selectFile"/></a>
     </li>
